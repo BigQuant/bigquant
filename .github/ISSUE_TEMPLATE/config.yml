@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "使用咨询 / Questions"
+    url: https://bigquant.com/wiki/home
+    about: "SDK 用法、策略开发等使用问题，请前往 BigQuant 知识库查找或发帖提问"
+  - name: "数据问题 / Data Issues"
+    url: https://bigquant.com/wiki/home
+    about: "数据覆盖、数据异常等问题，请前往 BigQuant 知识库反馈"
+  - name: "交流讨论 / Community"
+    url: https://bigquant.com/wiki/collection/YbyzplDKPp
+    about: "策略分享、经验交流、使用心得，欢迎前往 BigQuant 交流区"
